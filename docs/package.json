@@ -1,0 +1,19 @@
+{
+  "name": "mtm6407-static-site-xiieyuue",
+  "version": "0.0.1",
+  "description": "a hobby website to display my hobby",
+  "main": "index.js",
+  "authors": {
+    "name": "yuexie",
+    "email": "yue101219999@gmail.com"
+  },
+  "repository": "/mtm6407-static-site-xiieyuue",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
